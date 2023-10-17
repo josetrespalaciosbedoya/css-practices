@@ -33,3 +33,7 @@ div h2, div h3{
 .color{
     border: 5px black outset;
 }
+
+#fondo {
+    background-color: red;
+}
