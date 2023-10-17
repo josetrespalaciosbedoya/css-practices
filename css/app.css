@@ -39,3 +39,12 @@ div h2, div h3{
     background-image: url('../img/dev2.png');
     background-size: 400px 400px;
 }
+
+.margen {
+    background-color: chocolate;
+    margin: 15px;
+    padding: 30px 15px;
+    border: solid 1px black;
+    height: 100px;
+    width: 50px;
+}
