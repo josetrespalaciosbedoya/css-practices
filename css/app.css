@@ -47,4 +47,5 @@ div h2, div h3{
     border: solid 1px black;
     height: 100px;
     width: 50px;
+    overflow: scroll;
 }
