@@ -35,5 +35,6 @@ div h2, div h3{
 }
 
 #fondo {
-    background-color: rgba(0,0,0,1);
+    background-color: rgba(255,0,0);
+    opacity: 0.3;
 }
