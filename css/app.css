@@ -23,3 +23,13 @@ div h2, div h3{
 }
 
 /* Comentario */
+
+/*
+.color {
+    color: #ff0000;
+}
+*/
+
+.color{
+    color: rgb(0, 0, 255)
+}
