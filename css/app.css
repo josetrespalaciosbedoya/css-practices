@@ -57,3 +57,19 @@ div h2, div h3{
     text-decoration: overline;
     text-shadow: 3px 5px 5px blue;
 }
+
+a:link {
+    color: blueviolet;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: yellow
+}
+
+a:active {
+    color: red;
+}
