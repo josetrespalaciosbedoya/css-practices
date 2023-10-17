@@ -35,6 +35,5 @@ div h2, div h3{
 }
 
 #fondo {
-    background-color: rgba(255,0,0);
-    opacity: 0.3;
+    background-image: url('../img/dev2.png');
 }
