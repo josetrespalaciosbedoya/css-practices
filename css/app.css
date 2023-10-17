@@ -73,3 +73,11 @@ a:hover {
 a:active {
     color: red;
 }
+
+ul {
+    background-color: cyan;
+    /* list-style: none;
+    padding-left: 0; */
+    /* list-style-position: inside; */
+    list-style-type:armenian;
+}
